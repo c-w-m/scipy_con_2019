@@ -1,4 +1,4 @@
-# Tutorial Sessions for SciPy Con 2019
+# Tutorial Sessions for [SciPy Con 2019](https://github.com/john-science/scipy_con_2019)
 
 I couldn't attend every tutorial, but these seemed like fun:
 
